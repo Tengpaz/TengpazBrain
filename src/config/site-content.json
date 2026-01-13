@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "TengpazBrain",
+		"description": "藤爬的大脑终端",
+		"username": "Tengpaz"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -44,23 +44,23 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/Tengpaz",
 			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "tengpaz_zhen@outlook.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1768296367898",
+			"type": "link",
+			"value": "https://qinaida.cn",
+			"label": "主站",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
@@ -68,9 +68,9 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 12,
 	"hatFlipped": false,
-	"enableChristmas": false,
+	"enableChristmas": true,
 	"beian": {
 		"text": "",
 		"link": ""
